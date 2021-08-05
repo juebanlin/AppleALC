@@ -31,9 +31,9 @@
 			</dict>
 			<key>Outputs</key>
 			<array>
+				<string>IntSpeaker</string>
 				<string>Headphone</string>
 				<string>LineOut</string>
-				<string>IntSpeaker</string>
 			</array>
 			<key>PathMapID</key>
 			<integer>256</integer>
