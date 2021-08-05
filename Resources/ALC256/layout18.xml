@@ -32,8 +32,8 @@
 			<key>Outputs</key>
 			<array>
 				<string>Headphone</string>
-				<string>LineOut</string>
 				<string>IntSpeaker</string>
+				<string>LineOut</string>
 			</array>
 			<key>PathMapID</key>
 			<integer>256</integer>
